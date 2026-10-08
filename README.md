@@ -1,16 +1,21 @@
-# widgets
+# Flutter Widgets Playground
 
-A new Flutter project.
+Practice for core Flutter layout widgets and fetching data over HTTP.
 
-## Getting Started
+## Contents
 
-This project is a starting point for a Flutter application.
+- Layout: `row_widget`, `column_widget`, `stack_widget`, `container_widget`
+- `buttons_widget`, default text styles
+- `future_builder`: async UI
+- `http/`, `api_second/`: fetch posts and users from JSONPlaceholder and render them in lists
 
-A few resources to get you started if this is your first Flutter project:
+## Getting started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+
+**Mati ul Rehman**: [github.com/Matiz009](https://github.com/Matiz009)
